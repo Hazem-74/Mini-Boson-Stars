@@ -1,0 +1,5 @@
+Complete[[:space:]]Project/Boson[[:space:]]Stars[[:space:]]Latex.zip filter=lfs diff=lfs merge=lfs -text
+Complete[[:space:]]Project/boson_star_grids.zip filter=lfs diff=lfs merge=lfs -text
+Complete[[:space:]]Project/Mini-Boson[[:space:]]Stars.zip filter=lfs diff=lfs merge=lfs -text
+Complete[[:space:]]Project/Mini-bosons[[:space:]]python.zip filter=lfs diff=lfs merge=lfs -text
+Complete[[:space:]]Project/Mini-Bosons-Visualizations.zip filter=lfs diff=lfs merge=lfs -text
