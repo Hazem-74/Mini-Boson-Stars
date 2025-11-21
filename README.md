@@ -12,7 +12,7 @@ This repository contains two complementary implementations:
   → See [`OverView/README.md`](OverView/README.md) for details.
 
 - **`/Complete Project`**: A streamlined version focused on core computation and unit rescaling, with modular code structure. Suitable for parameter studies and extension.  
-  → See [`Complete Project/README.md`](Complete Project/README.md) for details.
+  → See [`Complete Project/README.md`](Complete%20Project/README.md) for details.
 
 Both folders include the main notebook:  
 **`Mini-Boson Stars.ipynb`**
